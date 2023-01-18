@@ -9,7 +9,7 @@ function sendEmail(e){
     message = document.querySelector('.message');
 
     Email.send({
-      SecureToken : "6da88830-f58a-4fae-b848-7ed322cdcc18",
+      SecureToken : "3a57e32e-405f-49f6-b3ab-65e3c407174e",
       To : 'dummyjef11@gmail.com',
       From : email.value,
       Subject : subject.value,
