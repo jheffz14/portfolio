@@ -760,10 +760,13 @@ img{
 .pp-thumbnail img{
     border-radius: 10px;
     display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 40%;
-    
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+.pp-thumbnail .jobrequest{
+    width:500px;
+    height:500px;
 }
 .pp-header h3{
     font-size: 25px;
